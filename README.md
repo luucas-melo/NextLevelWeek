@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="public/images/logo.svg" width="200px" style="background-color:#8257E5">
+    <img src="public/presentation/logo_presentation.png" width="300px">
 </h1>
 <h2 align="center">  
   <a href="#%EF%B8%8F-about">About</a> |
