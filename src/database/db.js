@@ -24,6 +24,7 @@ function execute(db) {
             time_from INTEGER,
             time_to INTEGER
         );
+
     `)
 }
 
