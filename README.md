@@ -16,7 +16,7 @@
 </h1>
 
 ## ⁉️ About
-Proffy is a website with **responsive design** that provides a connection between teachers and students. It's possible register a class and filter to see the available classes.
+Proffy is a **responsive design** website that provides a connection between teachers and students. It's possible register a class and search for available classes by using the filter tool.
 
 ## 🚀 Technologies
 - JavaScript
