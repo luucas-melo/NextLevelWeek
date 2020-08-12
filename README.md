@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="public/images/logo.svg" width="200px" style="background-color:#8257E5";>
+    <img src="public/images/logo.svg" width="200px" style="background-color:#8257E5">
 </h1>
 <h2 align="center">  
-  <a href="#-⁉️-about">About</a> |
+  <a href="#%EF%B8%8F-about">About</a> |
   <a href="#-technologies">Technologies</a> | 
   <a href="#-download">Download</a> | 
 </h2>
