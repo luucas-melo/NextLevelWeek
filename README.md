@@ -3,12 +3,12 @@
 </h1>
 
 <h2 align="center">  
-  <a href="#-about">About</a> |
+  <a href="#-⁉️-about">About</a> |
   <a href="#-technologies">Technologies</a> | 
   <a href="#-download">Download</a> | 
 </h2>
 <h1 align= "center">
-   <img src="https://ik.imagekit.io/4fxtbain4p/Proffy___Sua_plataforma_de_estudos_online__1__hYlfhsqKi.gif">
+   <img src="public/presentation/proffy_presentation.gif">
 </h1>
 
 ## ⁉️ About
